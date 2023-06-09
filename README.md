@@ -3,5 +3,5 @@
 ## Demo:
 
 
+![ezgif com-video-to-gif (1)](https://github.com/subham-paul/Modern-Chair/assets/52645265/04ad0c8b-0098-4cf5-824d-1a241e25d6b8)
 
-[Screencast from 09-06-23 06:07:31 PM IST.webm](https://github.com/subham-paul/Modern-Chair/assets/52645265/bae0c9fd-d916-429e-bfab-5062c31c353c)
